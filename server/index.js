@@ -17,7 +17,7 @@ const PORT = process.env.PORT || 8000;
 
 // middlewares
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://interviewforge-ai-frontend.onrender.com",
     credentials:true
 }));
 app.use(express.json());
