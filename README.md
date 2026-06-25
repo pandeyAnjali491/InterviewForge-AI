@@ -141,10 +141,6 @@ The platform provides personalized interview experiences by leveraging Artificia
 
 ### Live Demo
 
-🔗 https://your-live-demo-link.com
-
-### GitHub Repository
-
 🔗 [live demo](https://interviewforge-ai-frontend.onrender.com)
 
 ---
