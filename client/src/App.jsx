@@ -12,7 +12,7 @@ import Pricing from './pages/Pricing.jsx';
 import InterviewReport from './pages/InterviewReport.jsx';
 
 
-export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://interviewforge-ai-backend.onrender.com";
 
 export default function App() {
   const dispatch = useDispatch();
